@@ -1,0 +1,36 @@
+﻿body {
+
+}
+a {
+    color: #00b5ad;
+}
+#splash {
+    width: 100%;
+    margin-bottom: 3px;
+    border: 4px solid black;
+}
+#splash2 {
+    width: 100%;
+    margin-bottom: 3px;
+    border: 4px solid black;
+}
+
+#buttons button {
+    margin-bottom: 3px;
+    margin-left: auto;
+    margin-right: 0px;
+}
+
+#sidetext p {
+    margin-top: 80px;
+    font-size: large;
+}
+
+.header {
+    border-bottom: 2px solid black;
+    margin-bottom: 10px;
+}
+.footer {
+    border-top: 2px solid black;
+    margin-top: 50px;
+}

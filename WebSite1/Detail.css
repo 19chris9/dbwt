@@ -1,0 +1,60 @@
+﻿body {
+}
+
+a {
+    color: #00b5ad;
+}
+
+.header {
+    border-bottom: 2px solid black;
+    margin-bottom: 30px;
+}
+
+.footer {
+    border-top: 2px solid black;
+    margin-top: 50px;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    border: 2px solid black;
+}
+
+#bestellen p {
+    margin-left: 120px;
+}
+
+#bestellen p:first-child { /*dossier*/
+    font-size: 25px;
+}
+
+#preis {
+    margin-top: -20px;
+    margin-left: 150px;
+    font-size: 35px;
+}
+
+#bestellen button {
+    font-size: 30px;
+    margin-top: 80px;
+    margin-left: 10px;
+}
+
+#login, .tabs {
+    border: 2px solid black;
+}
+
+.tabs {
+    max-width: 100%;
+    width: 10%;
+}
+
+
+.r3 {
+    margin-bottom: 20px;
+}
+
+#submit {
+    margin-bottom: 5px;
+}

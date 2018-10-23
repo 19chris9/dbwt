@@ -1,0 +1,60 @@
+﻿body {
+}
+
+a {
+    color: #00b5ad;
+}
+
+#filter {
+    border: 2px solid black;
+}
+
+h3 {
+    font-size: medium;
+    margin: auto;
+    width: 54%;
+}
+.checkboxes {
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+#filter button {
+    margin: auto;
+    width: 100%;
+}
+
+#kategorien {
+    margin: auto;
+    margin-top: 30px;
+    width: 50%;
+}
+
+h2 {
+    padding: 20px;
+}
+
+.produkte div {
+    margin-bottom: 3px;
+}
+
+.produkte p {
+    margin-bottom: 5px;
+    margin: auto;
+    width: 60%;
+}
+
+img{
+    width: 100%;
+    border: 4px solid black;
+}
+
+.header {
+    border-bottom: 2px solid black;
+    margin-bottom: 10px;
+}
+
+.footer {
+    border-top: 2px solid black;
+    margin-top: 50px;
+}
